@@ -1,0 +1,30 @@
+Vercel CLI 54.6.1 (Node.js 25.8.1)
+Retrieving project…
+Fetching logs...
+TIME         HOST                                            LEVEL                           
+18:03:31.27  onu-2gyd5f0ie-raiyanaftabs-projects.vercel.app  error  λ POST /api/docs/state   
+Supabase query failed or no table found: Invalid path specified in request URL
+Failed to update Supabase: Invalid path specified in request URL
+Supabase update error: Error: Supabase DB Error: Invalid path specified in request URL (Code: PGRST125). Make sure public.docs_settings table exists.     at async handler (___next_launcher.cjs:216:7)
+
+18:01:05.99  onu-lmk17vuv1-raiyanaftabs-projects.vercel.app  error  λ POST /api/docs/state   
+Supabase query failed or no table found: Invalid path specified in request URL
+Failed to update Supabase: Invalid path specified in request URL
+Supabase update error: Error: Supabase DB Error: Invalid path specified in request URL (Code: PGRST125). Make sure public.docs_settings table exists.     at async handler (___next_launcher.cjs:216:7)
+
+17:55:44.51  onu-lmk17vuv1-raiyanaftabs-projects.vercel.app  error  λ POST /api/docs/state   
+Supabase query failed or no table found: Invalid path specified in request URL
+Failed to update Supabase: Invalid path specified in request URL
+Supabase update error: Error: Supabase DB Error: Invalid path specified in request URL (Code: PGRST125). Make sure public.docs_settings table exists.     at async handler (___next_launcher.cjs:216:7)
+
+17:55:27.95  onu-ai.vercel.app                               error  λ POST /api/docs/state   
+Supabase query failed or no table found: Invalid path specified in request URL
+Failed to update Supabase: Invalid path specified in request URL
+Supabase update error: Error: Supabase DB Error: Invalid path specified in request URL (Code: PGRST125). Make sure public.docs_settings table exists.     at async handler (___next_launcher.cjs:216:7)
+
+17:55:16.32  onu-ai.vercel.app                               error  λ POST /api/docs/state   
+Supabase query failed or no table found: Invalid path specified in request URL
+Failed to update Supabase: Invalid path specified in request URL
+Supabase update error: Error: Supabase DB Error: Invalid path specified in request URL (Code: PGRST125). Make sure public.docs_settings table exists.     at async handler (___next_launcher.cjs:216:7)
+
+Fetched 5 logs for raiyanaftabs-projects/onu-ai

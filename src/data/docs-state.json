@@ -1,0 +1,30 @@
+{
+  "visibility": true,
+  "scheduleStart": "2026-05-01T00:00:00.000Z",
+  "scheduleEnd": "2026-12-31T23:59:59.000Z",
+  "pitchDeck": {
+    "problem": "Marketing campaigns cost millions of dollars, yet reviewing them against detailed brand manuals is manual, slow, and subjective. Missing an exact guideline color, voice compliance parameter, or target demographic expectation is a massive risk.",
+    "solution": "**onu.ai** provides a self-contained, real-time diagnostic engine that parses brand guidelines, posters, and video frames simultaneously—quantifying alignment and providing an interactive executive persona debating swarm.",
+    "valueProps": [
+      "**Unified Multimodal Auditing:** Drag and drop guidelines, images, and long video assets. Gemini extracts visual, audio, and text elements simultaneously.",
+      "**Actionable Scorecard metrics:** Objective ratings for rep risk, compliance, generative hook retention, generational appeal, and cognitive load.",
+      "**The Strategic Swarm:** A live, event-driven playground enabling you to debate layout decisions directly with AI specialist agents (CMO, PR, Creative Director)."
+    ]
+  },
+  "team": [
+    {
+      "name": "Jane Doe",
+      "role": "CEO & Founder",
+      "bio": "Former Product Lead at Google. Passionate about AI and brand compliance."
+    },
+    {
+      "name": "John Smith",
+      "role": "CTO",
+      "bio": "Ex-Stripe Engineer. Specializes in multi-agent architectures and high-performance serverless systems."
+    }
+  ],
+  "technicalArchitecture": {
+    "agents": "Rather than running heavy Python agent frameworks (which add massive dependencies, memory bloat, and network latency to edge environments), we custom-engineered an event-driven multi-agent routing architecture directly in Next.js Serverless.",
+    "rag": "To guarantee absolute compliance without the lag, cost, and complexity of hosting an external vector database on serverless cold starts, we built a fully custom, localized RAG utility directly in Next.js Serverless."
+  }
+}

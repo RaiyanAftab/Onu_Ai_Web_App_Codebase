@@ -1,0 +1,16 @@
+Vercel CLI 54.6.1 (Node.js 25.8.1)
+Resolving deployment "onu-ai.vercel.app"
+Fetching project "prj_wYC3smruf7kfsTBxaFrgkJXT9j0O"
+Fetching logs...
+TIME         HOST               LEVEL                               STATUS  MESSAGE                                     
+17:55:27.95  onu-ai.vercel.app  error    λ POST /api/docs/state     500     Failed to update Supabase: Invalid path spe…
+17:55:16.32  onu-ai.vercel.app  error    λ POST /api/docs/state     500     Failed to update Supabase: Invalid path spe…
+17:54:12.50  onu-ai.vercel.app  error    λ POST /api/docs/state     500     Failed to update Supabase: Invalid path spe…
+17:54:11.77  onu-ai.vercel.app  info     ◇ GET /docs                200     (no message)                                
+17:54:11.77  onu-ai.vercel.app  info     ◇ GET /docs                200     (no message)                                
+17:54:11.77  onu-ai.vercel.app  info     ◇ GET /docs                200     (no message)                                
+17:54:11.77  onu-ai.vercel.app  info     ◇ GET /docs                200     (no message)                                
+17:54:11.25  onu-ai.vercel.app  info     ◇ GET /docs                200     (no message)                                
+17:54:09.14  onu-ai.vercel.app  warning  λ GET /api/docs/state      200     Supabase query failed or no table found: In…
+17:54:07.00  onu-ai.vercel.app  info     ◇ GET /docs/admin          200     (no message)                                
+Fetched 10 logs for raiyanaftabs-projects/onu-ai

@@ -1,0 +1,26 @@
+Vercel CLI 54.6.1 (Node.js 25.8.1)
+Resolving deployment "onu-ai.vercel.app"
+Fetching project "prj_wYC3smruf7kfsTBxaFrgkJXT9j0O"
+Fetching logs...
+TIME         HOST                                            LEVEL                               STATUS  MESSAGE        
+17:30:01.76  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /                    304     (no message)   
+17:30:01.76  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /                    304     (no message)   
+17:30:01.76  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /                    304     (no message)   
+17:30:01.66  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /                    304     (no message)   
+17:30:01.05  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  warning  λ GET /api/docs/state      200     Supabase query…
+17:30:00.19  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /docs                200     (no message)   
+17:29:54.94  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  error    λ POST /api/docs/state     500     Failed to writ…
+17:29:46.87  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /                    304     (no message)   
+17:29:46.87  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /                    304     (no message)   
+17:29:46.87  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /                    304     (no message)   
+17:29:46.77  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /                    304     (no message)   
+17:29:45.57  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  warning  λ GET /api/docs/state      200     Supabase query…
+17:29:44.97  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /docs                304     (no message)   
+17:29:29.69  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  error    λ POST /api/docs/state     500     Failed to writ…
+17:29:18.24  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /docs                304     (no message)   
+17:29:18.23  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /docs                304     (no message)   
+17:29:18.23  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /docs                304     (no message)   
+17:29:18.23  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /docs                304     (no message)   
+17:29:18.13  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  info     ◇ GET /docs                304     (no message)   
+17:29:16.52  onu-c3l1td4k7-raiyanaftabs-projects.vercel.app  warning  λ GET /api/docs/state      200     Supabase query…
+Fetched 20 logs for raiyanaftabs-projects/onu-ai

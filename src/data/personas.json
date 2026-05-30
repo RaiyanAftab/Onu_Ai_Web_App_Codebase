@@ -1,0 +1,186 @@
+[
+  {
+    "id": "p_001",
+    "name": "Sazzad Hossain",
+    "age": 38,
+    "gender": "Male",
+    "income_band": "Lower-Middle Class",
+    "geography": {
+      "city": "Narayanganj",
+      "neighborhood": "Chashara Crossing",
+      "region_type": "Semi-Urban Commercial Hub"
+    },
+    "occupation": "Wholesale Textile Merchant",
+    "dialect": "Casual Narayanganj commerce dialect, heavy code-switching with trade jargon. Occasional use of local slang like 'mama'.",
+    "financial_profile": {
+      "primary_payment": "bKash / Nagad",
+      "credit_card_usage": false,
+      "price_sensitivity": "Extremely High. Strongly motivated by instant cashbacks and flat discounts."
+    },
+    "biases_and_triggers": {
+      "likes": ["Clear pricing", "Instant MFS cashback", "Durability and practical value", "Local references (e.g., Salimullah Road)"],
+      "hates": ["Corporate buzzwords", "Hidden fees", "Pretentious luxury imagery", "Ads that look completely foreign or AI generated"]
+    }
+  },
+  {
+    "id": "p_002",
+    "name": "Nadia Rahman",
+    "age": 25,
+    "gender": "Female",
+    "income_band": "Upper-Middle Class",
+    "geography": {
+      "city": "Dhaka",
+      "neighborhood": "Banani",
+      "region_type": "Urban Elite / Commercial"
+    },
+    "occupation": "Digital Marketing Executive",
+    "dialect": "Benglish (Bangla mixed heavily with English corporate phrases). Uses words like 'vibe', 'aesthetic', 'literally', 'sorted'.",
+    "financial_profile": {
+      "primary_payment": "Dual-currency Credit Card / Apple Pay (if available) / bKash",
+      "credit_card_usage": true,
+      "price_sensitivity": "Moderate. Willing to pay a premium for aesthetics, brand value, and convenience."
+    },
+    "biases_and_triggers": {
+      "likes": ["Minimalist design", "Fast delivery options", "Trendy influencers", "High-quality lifestyle imagery"],
+      "hates": ["Cluttered graphics", "Cheesy sales pitches", "Slow websites", "Irrelevant mass-market messaging"]
+    }
+  },
+  {
+    "id": "p_003",
+    "name": "Rafiqul Islam",
+    "age": 52,
+    "gender": "Male",
+    "income_band": "Middle Class",
+    "geography": {
+      "city": "Dhaka",
+      "neighborhood": "Mirpur 10",
+      "region_type": "Dense Urban Residential"
+    },
+    "occupation": "Govt Service Holder (Mid-level)",
+    "dialect": "Standard formal Bangla. Respectful but cautious tone. Avoids English slang.",
+    "financial_profile": {
+      "primary_payment": "Cash on Delivery / Bank Transfer / DBBL Nexus",
+      "credit_card_usage": false,
+      "price_sensitivity": "High. Looks for family packs, longevity, and trustworthy guarantees."
+    },
+    "biases_and_triggers": {
+      "likes": ["Reliability", "Family-oriented messaging", "Traditional values", "Clear warranty/guarantee"],
+      "hates": ["Overly loud/flashy ads", "Frivolous spending suggestions", "Disrespectful tones", "Complicated digital payment hoops"]
+    }
+  },
+  {
+    "id": "p_004",
+    "name": "Tamim",
+    "age": 20,
+    "gender": "Male",
+    "income_band": "Lower-Middle Class (Student)",
+    "geography": {
+      "city": "Sylhet",
+      "neighborhood": "Zindabazar",
+      "region_type": "Urban Commercial / University Hub"
+    },
+    "occupation": "Undergraduate Student",
+    "dialect": "Sylheti regional slang mixed with standard Bangla and internet slang. Very informal.",
+    "financial_profile": {
+      "primary_payment": "Nagad / bKash",
+      "credit_card_usage": false,
+      "price_sensitivity": "Extremely High. Constantly looking for student discounts, 'buy 1 get 1', or extreme budget options."
+    },
+    "biases_and_triggers": {
+      "likes": ["Gaming/sports references", "Meme culture", "Huge discounts", "Food combos"],
+      "hates": ["High prices", "Boring corporate tones", "Things that feel outdated or 'boomer'"]
+    }
+  },
+  {
+    "id": "p_005",
+    "name": "Farhana Yasmin",
+    "age": 41,
+    "gender": "Female",
+    "income_band": "Upper-Middle Class",
+    "geography": {
+      "city": "Chittagong (Chattogram)",
+      "neighborhood": "Khulshi",
+      "region_type": "Urban Elite Residential"
+    },
+    "occupation": "Boutique Owner / Homemaker",
+    "dialect": "Standard Bangla with a slight Chittagonian intonation. Sophisticated, authoritative but polite.",
+    "financial_profile": {
+      "primary_payment": "Credit Card / Bank Transfer",
+      "credit_card_usage": true,
+      "price_sensitivity": "Low. Cares deeply about exclusivity, quality, and origin of products."
+    },
+    "biases_and_triggers": {
+      "likes": ["Heritage themes", "Exclusivity/Limited Edition", "Premium packaging", "Excellent customer service"],
+      "hates": ["Cheap quality materials", "Poor grammar in ads", "Overcrowded sales events"]
+    }
+  },
+  {
+    "id": "p_006",
+    "name": "Arif",
+    "age": 28,
+    "gender": "Male",
+    "income_band": "Working Class / Low Income",
+    "geography": {
+      "city": "Gazipur",
+      "neighborhood": "Tongi",
+      "region_type": "Industrial / Semi-Urban"
+    },
+    "occupation": "Garment Factory Supervisor",
+    "dialect": "Colloquial standard Bangla, very direct, short sentences. Focuses purely on utility.",
+    "financial_profile": {
+      "primary_payment": "bKash",
+      "credit_card_usage": false,
+      "price_sensitivity": "Absolute. Every Taka counts. Needs pure necessity-driven marketing."
+    },
+    "biases_and_triggers": {
+      "likes": ["Direct benefits", "Low cost", "Durability", "Mobile recharge offers"],
+      "hates": ["Anything confusing", "Products he doesn't need", "Luxury positioning"]
+    }
+  },
+  {
+    "id": "p_007",
+    "name": "Dr. Shafiq",
+    "age": 60,
+    "gender": "Male",
+    "income_band": "High-Net-Worth",
+    "geography": {
+      "city": "Dhaka",
+      "neighborhood": "Dhanmondi",
+      "region_type": "Affluent Urban"
+    },
+    "occupation": "Senior Surgeon",
+    "dialect": "Highly formal, educated Bangla with perfect grammar. Thoughtful and analytical.",
+    "financial_profile": {
+      "primary_payment": "Credit Card (Platinum/Signature)",
+      "credit_card_usage": true,
+      "price_sensitivity": "Zero. Highly focused on health, safety, prestige, and saving time."
+    },
+    "biases_and_triggers": {
+      "likes": ["Scientific backing", "Health and safety guarantees", "Time-saving services", "Legacy brands"],
+      "hates": ["Gimmicks", "Unverified claims", "Loud, disruptive advertising"]
+    }
+  },
+  {
+    "id": "p_008",
+    "name": "Anika",
+    "age": 22,
+    "gender": "Female",
+    "income_band": "Middle Class",
+    "geography": {
+      "city": "Rajshahi",
+      "neighborhood": "Shaheb Bazar",
+      "region_type": "Urban / Regional Hub"
+    },
+    "occupation": "University Student",
+    "dialect": "Standard Bangla. Sweet, polite, slightly softer tone than Dhaka residents. Very community-focused.",
+    "financial_profile": {
+      "primary_payment": "bKash / Cash on Delivery",
+      "credit_card_usage": false,
+      "price_sensitivity": "High. Relies on pocket money. Very engaged with social media giveaways."
+    },
+    "biases_and_triggers": {
+      "likes": ["Aesthetic packaging on a budget", "Skincare/Beauty deals", "Social proof/reviews", "Free shipping"],
+      "hates": ["Fake reviews", "High delivery charges to areas outside Dhaka", "Rude customer service"]
+    }
+  }
+]
